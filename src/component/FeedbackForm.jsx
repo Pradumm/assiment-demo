@@ -70,7 +70,7 @@ const FeedbackForm = () => {
                         onChange={handleInputChange}
                     />
                     <svg
-                        className='absolute right-40 top-10 text-gray-400 w-6 h-6 pointer-events-none'
+                        className='absolute right-52 top-10 text-gray-400 w-6 h-6 pointer-events-none'
                         aria-hidden='true'
                         xmlns='http://www.w3.org/2000/svg'
                         fill='none'
